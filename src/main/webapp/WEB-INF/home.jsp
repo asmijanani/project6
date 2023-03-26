@@ -12,7 +12,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to TSHIVA Technologies.</h1>
+<h1 align="center">Welcome to janani asmi Technologies.</h1>
 <h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
@@ -21,9 +21,9 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
-		Bangalore.
+		Mithun ss technology, 
+		chennai Halli,Opp To Madhurai Iddly House
+		madurai.
 		+91-9980923226
 	</span>
 </div>
